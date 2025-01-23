@@ -5,7 +5,7 @@ Aplicativo
 <h1 align="center"> TODO e REMINDER </h1>
 
 <p align="center">
-Progrma exclusivo e gratuito, promovido para ensino de tecnologias WEB. <br/>
+Programa exclusivo e gratuito, promovido para ensino de tecnologias WEB. <br/>
 
 
 ## 🚀 Tecnologias
